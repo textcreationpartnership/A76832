@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The blasphemer tried and cast: or, a more full narrative of the tryal of Lodowick Muggleton, on Wednesday the 17th of this instant January, at the Sessions-House in the Old-Bayly. : With a relation of the charges delivered to the jewry, and the sentence passed upon him for his most impious and horrid blasphemies. : Which was to stand three days in the pillory in three of the most eminent places in the city, and to have his books burnt before his face by the common hangman ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76832</idno>
+            <idno type="STC">Wing B3167A</idno>
+            <idno type="STC">ESTC R225663</idno>
+            <idno type="EEBO-CITATION">45789159</idno>
+            <idno type="OCLC">ocm 45789159</idno>
+            <idno type="VID">172471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172471)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2632:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The blasphemer tried and cast: or, a more full narrative of the tryal of Lodowick Muggleton, on Wednesday the 17th of this instant January, at the Sessions-House in the Old-Bayly. : With a relation of the charges delivered to the jewry, and the sentence passed upon him for his most impious and horrid blasphemies. : Which was to stand three days in the pillory in three of the most eminent places in the city, and to have his books burnt before his face by the common hangman ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Roger L'Strange, Jan. 22. 1676."</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Muggleton, Lodowick, 1609-1698 --  Trials, litigation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172471:1"/>
+            <pb facs="tcp:172471:2" rendition="simple:additions"/>
+            <p>THE BLASPHEMER Tryed and Caſt: Or a more full Narrative of the Tryal of Lodowick Muggleton, On <hi>Wedneſday</hi> the 17th of this Inſtant <hi>January,</hi> at the Seſſions-Houſe in the <hi>Old-Bayly.</hi>
+            </p>
+            <p>With a Relation of the Charges delivered to the Jewry, and the Sentence paſſed upon him for his moſt Impious and Horrid Blaſphemies.</p>
+            <p>WHICH WAS To ſtand Three Days in the Pillory in three of the moſt eminent places in the City, and to have his Books burnt before his Face by the Common Hangman.</p>
+            <p>And alſo to pay Five Hundred Pounds Fine, and to find Sureties for his good Behaviour.</p>
+            <p>Licenſed <hi>Roger L'Strange,</hi> Jan. 22. 1676.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. B.</hi> in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172471:3"/>
+            <head>The Blaſphemer Tryed and Caſt, <hi>&amp;c.</hi>
+            </head>
+            <p>THE birth and Education of this Monſter that the whole Chriſtian world may ex<g ref="char:EOLhyphen"/>pect an account of, is ſo obſcure and low, ſo extreamly inconſiderable, that even his own Gang of fooliſh followers, upon a ſtrict inquiry of them, can only tell you that their firſt acquaintance with him did ariſe, when firſt his Co-partner in Villany, <hi>Reeve</hi> and himſelf, gave themſelves to be the two laſt witneſſes; then it was that <hi>Muggle<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> leaped over the Shop-board, and would conceipt himſelf, and make ſick-brained Idle people believe he was a great Prophet; that the power of binding and looſing were more ſtrongly confirmed to him then ever the Roman Biſhop pretended they were to the Holy Chair, for ſome years laſt paſt hath the impudence of this deceiver impoſed upon a Company of Rude inconſtant, Debauched people, to the wonder and aſtoniſhment of good and conſiderate men, that Juſtice did not ſtifle ſuch a horried Fomenter of all that was ſuperlatively wicked in its firſt birth; but ſuch are thoſe latter days that no Heretick hath appeared upon the ſtage of the World, but he hath found both adherers and admi<g ref="char:EOLhyphen"/>rers, ſome profeſſing Religion, thinking it their glory to be alwaies ſeeking, though that their over curious inquiry hazards the welfare of their immortal Souls; too many are the preſent examples of this kind, and as eaſiy it were to give many inſtances how that at laſt the Vengeance of Heaven hath overtaken ſuch enemies to God and Religion, and becauſe men have not ſo far eſpouſed the cauſe of the Almighty, as ſeverely to puniſh ſuch wretches preſidents are not wanting where God himſelf hath made manifeſt by his Judgments his diſlike to, by puniſhment upon thoſe Sons of <hi>Belial</hi> that durſt derogate from the power of Heaven, much more againſt thoſe that would eſtabliſh an oppoſition to it; this indeed muſt not be the deſign of this ſheet to manifeſt, that to undertake, were to ſwell this ſheet into a Vollumn, which is not my deſign, but obſerving a defect in the former Relation, it was thought neceſſary to give a more perfect account of <hi>Muggletons</hi> Tryal, and to inform the world that God hath given us ſuch wiſe and learned judges, that the greateſt zeal imaginable was ſhewn by them, and indeed by the whole Court againſt the Blaſphemies of the boldeſt wretch that ever the earth made known, who at laſt being overtaken by the juſtice of the Law, received a Tryal before many of the great Oracles of Juſtice, whom his Majeſty for their great merrits hath dignified with a judicatory Power; on <hi>Wedneſday</hi> the 17th. of this Inſtant <hi>January,</hi> at Juſtice Hall in the <hi>Old-Baly,</hi> was this great blaſphemer arraigned, and indicted by the name of <hi>Lodowick Muggleton,</hi> for that he had ſould, uttered, and diſperſed ſeveral books, contained moſt horried Blaſphemies receited in the indictment, but too baſe for any man to name, and indeed too foul for any tongue to expreſs; after his charg read, and the wittneſſes heard, he was asked what he had to ſay for himſelf, who begged the fa<g ref="char:EOLhyphen"/>vour of the honourable Court, that he might have Counſel to ſpeak for him, and he deſired Mr. <hi>Jenner</hi> might be the perſon, which was graciouſly granted him, who like a good man diſcharged his duty as a Chriſtian, and Counſellour, he hoped the Court did not expect he ſhould defend or once name his Blaſphemies, all that he would ſay was, that the priſoner did confeſs the fact, all that he did ſay in defence of himſelf, was that the Books ſo ſould and uttered were written before the year 1673. In which year, his Majeſties Act of Grace came forth, which he hoped would bring him under that cognizans, after this had received ſome Conſideration by the Reverend Judges, his charge was given to the Ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in words to this Effect.</p>
+            <p>
+               <q>Gentlemen, you have heard the hainouſneſs of the crime this wretch ſtands indicted for, it is for moſt horrible Blaſphemy againſt the great God, ſuch wickedneſs his own Coun<g ref="char:EOLhyphen"/>cil will not dare to repeat, and truly could it have been avoided, the indictment contains ſuch horrible Blaſphemies and villanies, it ſhould not have been read, but Gentlemen, as to the matter, it is proved that he did utter, ſell, and diſpoſe ſeveral Vollums of theſe Blaſphemous books, that great quantities were taken in his own cuſtody, that he vented them
+<pb n="1" facs="tcp:172471:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172471:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172471:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172471:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172471:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172471:9"/>
+for ſeveral prizes, the whole Vollumn for 14. <hi>s.</hi> the half for 7. <hi>s.</hi> another part for 3. <hi>s.</hi> 6. <hi>d.</hi> and ſome for 18. <hi>d.</hi> a piece, ſo that he had prepared and fitted his poyſon to all degrees; he whoſe ſtomach was ſtrong enough, had a full cup of Poyſon, and for him whoſe appe<g ref="char:EOLhyphen"/>tite was weaker the half doze ſhould ſerve, and for thoſe whoſe diſgeſtion was not ſo good nor purſes ſo large, he had fited and prepared a ſmaller proportion for them; ſo that as much as in him lay, he indeavoured to infect all his Majeſties Subjects that could be ſo ignorant as to buy his impious works, now what defence doth he make, he confeſſes that the books were ſould and diſperſed after the year 1673. In the following years, 74. 75. 76. Yet ſays he, they were written before the year 1673. ſo I hope the Kings Act of grace reaches ſo far as to pardon me; now Gentlemen, what witneſs, what proof brings he of this, why truly here is nothing appears but his own aſſertion, and he tells you the Title of his moſt wick<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Books ſpeak that they were written before) who can be proof in ſuch a caſe as to what he did? what Teſtimony can he give account of his writing his Manuſcript, except his own wicked Spirit? he ſays it was written before, but can you believe him, do you think h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will make a conſcience of lying, that hath vented ſuch unheard of Blaſphe<g ref="char:EOLhyphen"/>mies againſt God, than it were hard for the Divel to out do him in his mallice; as to the Titles of his helliſh books, who can tell but he might g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve them a falſe date or purpoſe to ſhelter himſelf under the Kings Act of grace, and foreſeeing at laſt that Juſtice would over<g ref="char:EOLhyphen"/>take him, he thought to take that for his refuge, for to give books a new Title, it ſeems as it is eaſy, there is nothing more ordinary. Gentlemen we are fallen into ſuch ſad times, that what over oppoſet Government, whatever puſheth at Majeſtracy is upheld and carried on by a deſperate ſort of men; Gentlemen, I leave it to you, I pray God direct you.</q>
+            </p>
+            <p>It was further inſiſted upon <q>That ſuch was the charge againſt the Priſoner, and ſo unuſual his Crime, that it did concern them to vindicate the Cauſe of God, of Religion, and of our Dread Sovereign, which <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch a diſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cable Villain had ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught to Ruin, that it was admirable that ſuch a ſilly Wretch durſt be ſo Impudent to think to make himſelf great, by gathering a Rabble to Intitle themſelves by his Name, it was left to them, and it was not to be doubt<g ref="char:EOLhyphen"/>ed but God would give them Direction, upon which the Jury withdrew, and found this Great Impoſter <hi>Guilty.</hi>
+               </q> After Sentence paſt upon other Malefactors, he received judgment, in a phraſe more eloquent then I dare preſume to Judg my ſelf able to rehearſe, but in words much to this effect; that ſuch a Superlative Monſter of Wickedneſs, ſhould dare to Belch forth ſuch horrible Blaſphemys againſt the great God, Creator of Heaven and Earth; that ſuch a deſpiſeable Fellow here ſhould gather a party, and ſet himſelf up in defiance to his Maker, and ſo proceeding to his Sentence, it was as follows: <q>Thou art now, thou Blaſ<g ref="char:EOLhyphen"/>phemous Wretch, to receive the moderate Sentence of this Court, I call it ſo becauſe ſet in the Ballance with thy Crime, it is extreamly mild, Bbut why is it ſo? is it in reſpect to thy Perſon, or compaſſion to thee, no ſurely, it is becauſe the honeſty and goodneſs of our Anceſtors was ſuch, that they thought the Earth could never bare ſuch a Monſter as thou art, and now thy Sentence is, thou art to ſtand three ſeveral days in the Pillary, in three of the moſt eminent places of this City, whereof the <hi>Royal Exchange</hi> is to be one, and thy Books that are already found, and which contain thy wickedneſs, to be devided in three equal parts, and one part of them to attend thee every time thou ſo ſtandeſt, and becauſe thy Proſelytes ſhall ſee thy Doctrine ſuffer with thee, thy Books ſhall be burnt by the hands of the Com<g ref="char:EOLhyphen"/>mon Hangman, thou art alſo judged to pay five hundred Pounds, and to find Suretys before thou art diſcharged from Priſon, for thy good behaviour dureing Life, but they muſt not be of thy own party <hi>(Muggletonian)</hi> but men of ſincere and honeſt converſation, and this is the moderate Sentence of this Court.</q>
+            </p>
+            <p>
+               <q>And hear it will not be amiſs, that we admire at the Patience and long ſuffering of our good and gracious God in permiting ſuch a <hi>Rabſhack</hi> to go ſo long unpuniſhed, ſo unwil<g ref="char:EOLhyphen"/>ling is that Divine being that any of his Creatures ſhould be miſerable, but wiſhes all to Re<g ref="char:EOLhyphen"/>pent, but if his Patience be abuſed, he hath whet his Glittering Sword, and bent his Averging Bow, ſo that all ſhall ſay, Righteous art thou Oh Lord, and juſt in all thy judgments.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
